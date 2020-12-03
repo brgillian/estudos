@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Pichau"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-12-01 04:03:09 "/>
+        <attribute name="created" value="UGljaGF1O0RFU0tUT1AtQ001QjBKVjsyMDIwLTEyLTAxOyIwMzo1NjowNCAiOzI4Mzc="/>
+        <attribute name="edited" value="UGljaGF1O0RFU0tUT1AtQ001QjBKVjsyMDIwLTEyLTAxOyIwNDowMzowOSAiOzE7Mjk0Mw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="nota1, nota2, nota3, nota4, media" type="Real" array="False" size=""/>
+            <declare name="nome" type="String" array="False" size=""/>
+            <output expression="&quot;Digite seu nome:&quot;" newline="True"/>
+            <input variable="nome"/>
+            <output expression="&quot;Agora digite suas 4 notas precionando Enter ap&#243;s cada uma.&quot;" newline="True"/>
+            <input variable="nota1"/>
+            <input variable="nota2"/>
+            <input variable="nota3"/>
+            <input variable="nota4"/>
+            <assign variable="media" expression="(nota1 + nota2 + nota3 + nota4) / 4"/>
+            <output expression="&quot;Seu nome &#233; &quot; &amp; nome &amp; &quot; a sua m&#233;dia &#233; &quot;&amp; media &amp; &quot;.&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
