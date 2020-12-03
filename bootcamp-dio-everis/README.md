@@ -1,6 +1,6 @@
 # Bootcamp DIO-Everis :green_heart:
 <hr>
-Este repositório foi criado com a finalidade de compartilhar códigos, pseudocódigos, fluxogramas e qualquer outro material gerado durante o bootcamp [Everis FullStack Developer](https://web.digitalinnovation.one/track/everis-fullstack-developer?automatic=true). De: 30-11-2020 Até: 13-12-2021
+Este repositório foi criado com a finalidade de compartilhar códigos, pseudocódigos, fluxogramas e qualquer outro material gerado durante o bootcamp [Everis FullStack Developer](https://digitalinnovation.one). De: 30-11-2020 Até: 13-12-2021
 
 
 ## :computer: Ferramentas Utilizadas
