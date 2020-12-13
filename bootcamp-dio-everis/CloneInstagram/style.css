@@ -1,4 +1,3 @@
-
 @charset "UTF-8";
 
 *{
@@ -61,7 +60,7 @@ footer a, .copyright, .language{
 
 .phone-demo{
     height: 61.8rem;
-    background:url(../image/phone.png) center no-repeat;
+    background:url(image/phone.png) center no-repeat;
     flex:1;
 }
 .user-data{
