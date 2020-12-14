@@ -62,6 +62,7 @@ footer a, .copyright, .language{
     height: 61.8rem;
     background:url(image/phone.png) center no-repeat;
     flex:1;
+    
 }
 .user-data{
     display: flex;
