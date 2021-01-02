@@ -28,7 +28,7 @@ fetch('https://pro-api.coinmarketcap.com/v1/cryptocurrency/map?CMC_PRO_API_KEY=X
                 <p>${api.data[i].symbol}</p>
             </div>
         </div>`
-    document.getElementById("coins".innerHTML = texto);
+        document.getElementById("coins").innerHTML = texto;
     }
 })
 .catch((error) => {
